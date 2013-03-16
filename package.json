@@ -1,0 +1,11 @@
+{
+  "name": "screen",
+  "version": "0.0.1",
+  "dependencies": {
+    "bower": "x"
+  },
+  "engines": {
+    "npm": "1.1.x"
+  }
+}
+

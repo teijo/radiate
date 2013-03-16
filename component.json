@@ -1,0 +1,8 @@
+{
+  "name": "Screen",
+  "dependencies": {
+    "jquery": "x",
+    "bacon": "x",
+    "moment": "x"
+  }
+}
