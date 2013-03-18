@@ -1,0 +1,3 @@
+[submodule "link/text-flood"]
+	path = link/text-flood
+	url = git@github.com:teijo/text-flood.git
