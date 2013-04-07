@@ -1,0 +1,199 @@
+<rss version="2.0">
+    <channel xmlns:georss="http://www.georss.org/georss">
+        <title>Kilo</title>
+        <description>Station information feed for station KIL</description>
+        <lastBuildDate>Sun, 07 Apr 2013 17:29:34 +0300</lastBuildDate>
+        <category>Train System</category>
+        <georss:point>60.217935119038 24.7823960686559</georss:point>
+        <item>
+            <guid isPermaLink="false">H8527</guid>
+            <category>2</category>
+            <title>S</title>
+            <description>Summary</description>
+            <pubDate>Sun, 07 Apr 2013 17:29:34 +0300</pubDate>
+            <eta>16:23</eta>
+            <etd>16:22</etd>
+            <status>1</status>
+            <scheduledTime>16:21</scheduledTime>
+            <scheduledDepartTime>16:21</scheduledDepartTime>
+            <fromStation>HKI</fromStation>
+            <toStation>KKN</toStation>
+            <reasonCode/>
+            <lateness>0</lateness>
+            <completed>0</completed>
+            <cat>H</cat>
+            <georss:point>0 0</georss:point>
+        </item>
+        <item>
+            <guid isPermaLink="false">H8520</guid>
+            <category>2</category>
+            <title>U</title>
+            <description>Summary</description>
+            <pubDate>Sun, 07 Apr 2013 17:29:34 +0300</pubDate>
+            <eta>16:26</eta>
+            <etd>16:27</etd>
+            <status>1</status>
+            <scheduledTime>16:26</scheduledTime>
+            <scheduledDepartTime>16:26</scheduledDepartTime>
+            <fromStation>KKN</fromStation>
+            <toStation>HKI</toStation>
+            <reasonCode/>
+            <lateness>0</lateness>
+            <completed>0</completed>
+            <cat>H</cat>
+            <georss:point>0 0</georss:point>
+        </item>
+        <item>
+            <guid isPermaLink="false">H8533</guid>
+            <category>2</category>
+            <title>U</title>
+            <description>Summary</description>
+            <pubDate>Sun, 07 Apr 2013 17:29:34 +0300</pubDate>
+            <eta>16:52</eta>
+            <etd>16:53</etd>
+            <status>1</status>
+            <scheduledTime>16:51</scheduledTime>
+            <scheduledDepartTime>16:51</scheduledDepartTime>
+            <fromStation>HKI</fromStation>
+            <toStation>KKN</toStation>
+            <reasonCode/>
+            <lateness>0</lateness>
+            <completed>0</completed>
+            <cat>H</cat>
+            <georss:point>0 0</georss:point>
+        </item>
+        <item>
+            <guid isPermaLink="false">H8526</guid>
+            <category>2</category>
+            <title>S</title>
+            <description>Summary</description>
+            <pubDate>Sun, 07 Apr 2013 17:29:34 +0300</pubDate>
+            <eta>16:58</eta>
+            <etd>17:00</etd>
+            <status>1</status>
+            <scheduledTime>16:56</scheduledTime>
+            <scheduledDepartTime>16:56</scheduledDepartTime>
+            <fromStation>KKN</fromStation>
+            <toStation>HKI</toStation>
+            <reasonCode/>
+            <lateness>0</lateness>
+            <completed>0</completed>
+            <cat>H</cat>
+            <georss:point>0 0</georss:point>
+        </item>
+        <item>
+            <guid isPermaLink="false">H8535</guid>
+            <category>2</category>
+            <title>S</title>
+            <description>Summary</description>
+            <pubDate>Sun, 07 Apr 2013 17:29:34 +0300</pubDate>
+            <eta>17:22</eta>
+            <etd>17:23</etd>
+            <status>1</status>
+            <scheduledTime>17:21</scheduledTime>
+            <scheduledDepartTime>17:21</scheduledDepartTime>
+            <fromStation>HKI</fromStation>
+            <toStation>KKN</toStation>
+            <reasonCode/>
+            <lateness>60</lateness>
+            <completed>1</completed>
+            <cat>H</cat>
+            <georss:point>0 0</georss:point>
+        </item>
+        <item>
+            <guid isPermaLink="false">H8530</guid>
+            <category>2</category>
+            <title>U</title>
+            <description>Summary</description>
+            <pubDate>Sun, 07 Apr 2013 17:29:34 +0300</pubDate>
+            <eta>17:26</eta>
+            <etd>17:27</etd>
+            <status>1</status>
+            <scheduledTime>17:26</scheduledTime>
+            <scheduledDepartTime>17:26</scheduledDepartTime>
+            <fromStation>KKN</fromStation>
+            <toStation>HKI</toStation>
+            <reasonCode/>
+            <lateness>60</lateness>
+            <completed>1</completed>
+            <cat>H</cat>
+            <georss:point>0 0</georss:point>
+        </item>
+        <item>
+            <guid isPermaLink="false">H8541</guid>
+            <category>2</category>
+            <title>U</title>
+            <description>Summary</description>
+            <pubDate>Sun, 07 Apr 2013 17:29:34 +0300</pubDate>
+            <eta>17:51</eta>
+            <etd>17:51</etd>
+            <status>1</status>
+            <scheduledTime>17:51</scheduledTime>
+            <scheduledDepartTime>17:51</scheduledDepartTime>
+            <fromStation>HKI</fromStation>
+            <toStation>KKN</toStation>
+            <reasonCode/>
+            <lateness>0</lateness>
+            <completed>0</completed>
+            <cat>H</cat>
+            <georss:point>0 0</georss:point>
+        </item>
+        <item>
+            <guid isPermaLink="false">H8534</guid>
+            <category>2</category>
+            <title>S</title>
+            <description>Summary</description>
+            <pubDate>Sun, 07 Apr 2013 17:29:34 +0300</pubDate>
+            <eta>17:56</eta>
+            <etd>17:56</etd>
+            <status>1</status>
+            <scheduledTime>17:56</scheduledTime>
+            <scheduledDepartTime>17:56</scheduledDepartTime>
+            <fromStation>KKN</fromStation>
+            <toStation>HKI</toStation>
+            <reasonCode/>
+            <lateness>0</lateness>
+            <completed>0</completed>
+            <cat>H</cat>
+            <georss:point>0 0</georss:point>
+        </item>
+        <item>
+            <guid isPermaLink="false">H8543</guid>
+            <category>2</category>
+            <title>S</title>
+            <description>Summary</description>
+            <pubDate>Sun, 07 Apr 2013 17:29:34 +0300</pubDate>
+            <eta>18:21</eta>
+            <etd>18:21</etd>
+            <status>1</status>
+            <scheduledTime>18:21</scheduledTime>
+            <scheduledDepartTime>18:21</scheduledDepartTime>
+            <fromStation>HKI</fromStation>
+            <toStation>KKN</toStation>
+            <reasonCode/>
+            <lateness>0</lateness>
+            <completed>0</completed>
+            <cat>H</cat>
+            <georss:point>0 0</georss:point>
+        </item>
+        <item>
+            <guid isPermaLink="false">H8536</guid>
+            <category>2</category>
+            <title>U</title>
+            <description>Summary</description>
+            <pubDate>Sun, 07 Apr 2013 17:29:34 +0300</pubDate>
+            <eta>18:26</eta>
+            <etd>18:26</etd>
+            <status>1</status>
+            <scheduledTime>18:26</scheduledTime>
+            <scheduledDepartTime>18:26</scheduledDepartTime>
+            <fromStation>KKN</fromStation>
+            <toStation>HKI</toStation>
+            <reasonCode/>
+            <lateness>0</lateness>
+            <completed>0</completed>
+            <cat>H</cat>
+            <georss:point>0 0</georss:point>
+        </item>
+    </channel>
+</rss>
